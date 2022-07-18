@@ -28,7 +28,7 @@ class SelectionSort {
 
     public static void main(String[] args) {
 
-        int arr[] = { 2, 11, 1, 1, 4, 5, 6, 234, 0 };
+        int arr[] = {2, 11, 1, 1, 4, 5, 6, 234, 0};
         System.out.println("Unsorted array: " + Arrays.toString(arr));
 
         selectionSort(arr);
